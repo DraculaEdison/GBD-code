@@ -1,0 +1,661 @@
+measure,location,sex,age,rei,metric,year,val,upper,lower
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1991,9.04287261512373,11.504567590950016,7.140316283748938
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1990,4.409957673234632,5.661564460235242,3.3748448791312926
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1990,8.676073208097677,10.900288870786376,6.850808379361661
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1993,8.749458585109538,10.801222395559162,7.061317944835969
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1992,8.865716375264281,11.3571742236863,6.74843837880975
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1990,6.905730872579954,9.034964811709703,5.2684933585779925
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1990,8.8792830758703,11.3731155893153,6.7590858206263205
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1994,19.916635572397745,24.978492194246602,15.710386571919727
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1999,8.616693594663563,10.456374785221502,6.967873467660718
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1991,9.96133604643966,12.801669290215598,7.892611850914316
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1995,8.614386579538715,10.458697359086676,6.967405152439005
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1990,21.035453403774625,26.60078696012798,16.56790651753758
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1997,8.616145999688776,10.458260223976168,6.968465978859033
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1992,8.181157481295426,10.579509528701953,6.331664487734209
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1992,7.15166136946239,9.069151980580054,5.566268120284733
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1990,2.8102608725113223,3.5810689173811894,2.1808124805490543
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1999,6.581339511847623,8.659245263813732,4.897219637233628
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1994,7.153552073232376,9.073630700241003,5.567577565474519
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1997,10.891645125284683,13.934002121120484,8.711457300058155
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1991,13.154502410851915,16.58570787282742,10.479212158172007
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2005,11.4226670298106,14.642684856240502,8.86948478867828
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1995,10.61091219753704,13.705438496734402,8.486725794674678
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1994,8.18554110112053,10.582212121452336,6.332060845137866
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1992,20.34936753922799,25.547921812650493,16.063218286957685
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1996,7.521400667256113,9.593778916870429,5.865967893949112
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1999,5.868576095566508,7.743662652935013,4.401452220113685
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1994,2.749110915679453,3.4775221868058726,2.1475146830818597
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1992,9.371458603263308,11.667463908569932,7.564446358153369
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1993,10.330826336203689,13.297294152060454,8.21925952168214
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2001,8.616961299640254,10.453425826243416,6.967601196947258
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1991,5.54799250382567,7.155734179440031,4.31130327732641
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1990,7.147445833515192,9.056104790664378,5.562587067044178
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1999,11.222314483223563,14.357302789817942,8.962440364593553
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1992,2.772379075596541,3.518859025493897,2.160706224106053
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1991,8.587614747980412,10.74522466806518,6.793574820621813
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1990,7.690544699522807,9.800494252134897,5.939944623416502
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1997,8.413413380247453,10.587229715574914,6.687902960164164
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2005,12.098493721048733,15.426479662898455,9.429651847489499
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1993,5.54687969972989,7.151204092499571,4.31288166364514
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2003,8.617573156542019,10.450694725005286,6.972435201032874
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2000,9.835784825180157,12.510722384810347,7.623179629721351
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1993,12.479390073297592,15.659508362483498,9.957824780802508
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2005,4.39516598731571,5.649747884715167,3.3728261890408153
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2005,8.618054535668227,10.447677366266413,6.975123576210314
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1995,8.415980236712912,10.50170810536233,6.699894876562949
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1996,8.189007961178676,10.582268101082636,6.331289084754962
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1998,9.842226882340473,12.51869927431613,7.6300506180859085
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2007,6.903547961689625,8.97452652111173,5.274017424971674
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1994,9.396162215742374,11.697254424631772,7.58216944457641
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1995,5.821910598292785,7.70860219288785,4.340712427119229
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2005,9.13409311443565,11.624126839665301,6.95336564410365
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1994,7.535907032301359,9.625588503756477,5.8621160727709505
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1997,6.581162449378737,8.660013133710825,4.893673803966936
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1992,7.599027062340401,9.704803395846664,5.892824822240892
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1991,5.941603848181307,7.858607336668877,4.440491068870541
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1995,12.206714934186738,15.29527191791554,9.751718586984296
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2005,19.835048660618355,24.85742151927644,15.666046494150631
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2001,11.406473561970234,14.540744115022644,9.082818861343366
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2003,11.4219017959776,14.636778834287101,8.868179695620219
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1999,12.226257654243305,15.314354747531588,9.772668417249296
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2000,8.189974010045256,10.589813742222475,6.324339020257239
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2005,6.904042124821047,8.976839975855256,5.278382034224652
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2001,4.398792967943359,5.65021063503193,3.373439367283774
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2007,11.71936399582249,14.832255853488105,9.376794283662196
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1997,5.841162313799503,7.723702871301158,4.363825714305347
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1993,5.854530498714125,7.750170020843862,4.367484676658866
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1996,9.385205742481983,11.659524845297163,7.583662674481717
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1995,8.409614626085814,10.58895518627887,6.672717017250671
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2003,11.534753010564408,14.6215183805944,9.209241772810477
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2001,6.90214879184002,8.97313847170425,5.288743161090012
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2002,8.161465323815985,10.506113779203458,6.330908525086388
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1998,8.189712510797339,10.587040674887303,6.328187273103339
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1992,8.880879938042236,11.124451610021184,7.088831739325377
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1990,9.871825363535375,12.548702578888365,7.650795599243095
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1993,8.453116807787378,10.58178267507199,6.716146569798267
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1999,8.478238331159224,10.566020683716705,6.75054595319278
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1997,8.445959188625988,10.533607385154678,6.727499834064371
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1997,12.216400158204124,15.302142423175248,9.762030745553776
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2006,8.111520903603498,10.488882131130865,6.299654853366096
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2007,9.35339206668276,11.889003209089,7.09593745665173
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2003,4.3975132682766365,5.651295406190584,3.3728721214081014
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2003,6.903673419789954,8.975743178139718,5.283884834892826
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1995,8.85627834094152,11.3453985911107,6.74719792164542
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2007,8.619142287256434,10.445371948019444,6.977368577136282
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1991,8.18073250483797,10.577990665284506,6.332454342431469
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2000,9.301792966468241,11.49798622812243,7.570843549364695
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2003,8.5300290252997,10.633238245008696,6.795395917815024
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1994,8.657523427019312,10.60355067697287,7.034220312975964
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2001,12.237284906761396,15.335344365475152,9.783765367194976
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2007,8.593907889305147,10.709562845790778,6.856238985546945
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1998,9.330733538351007,11.537638799753308,7.560150487883131
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1995,13.830090213571802,16.477554472192498,11.715416428781902
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2004,8.119328801265578,10.492775704993553,6.310281230117918
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2004,5.54007644847758,7.1434569029504305,4.306013564252241
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2002,9.283801905316109,11.447937322291388,7.55104095360936
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1996,9.849445469357514,12.528844722030067,7.637229711594301
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2001,8.506538060452073,10.599804336654264,6.776057532718284
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1999,4.399664018560636,5.647324165696015,3.3743209234534652
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2006,5.53879897835933,7.140723406260981,4.3049149410651095
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1999,6.900210592108159,8.978166703283275,5.290905425593315
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1992,9.863761241106243,12.540799964158566,7.645080345900547
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1994,8.419117855898579,10.518913305616111,6.697602660608752
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1996,8.615363367218922,10.458542117416464,6.968017306778243
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1991,8.458252609934537,10.820560982387963,6.623514397899491
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2006,9.233270844694268,11.401308499568673,7.488978018374019
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2007,19.83840482758185,24.858385104689596,15.668876449945977
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1995,8.187802116233149,10.582389270757904,6.3320160199874405
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2005,8.561089775328325,10.675919150028014,6.825578701954625
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1990,8.18089150188585,10.578167542724877,6.332307142170697
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2003,12.075088148860234,15.391028406366036,9.41005436453035
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1997,13.8283869433147,16.480778577650902,11.7128626875892
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1991,14.375953207988001,17.2358311137914,12.076718991653399
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2003,12.249034065485386,15.359050544701603,9.794270659477199
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2005,12.261794892342754,15.38223950705734,9.803352520883724
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2005,11.629296669027507,14.695255091147331,9.280967609637122
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1991,9.3561581769286,11.660939662846735,7.55000991029345
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1992,8.511164062965467,10.67290751328815,6.754728947830467
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2009,8.620738606916465,10.442840566965273,6.978707956017724
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2000,8.616755183083571,10.454935332207647,6.966707996000156
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2002,8.617282072354659,10.452113105324393,6.970168654507408
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2004,9.247496770914653,11.407901978902126,7.509131341208721
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1995,19.85446538548592,24.87619404363293,15.654653218460954
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1999,8.189825865922511,10.58821384411307,6.326094070237713
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1998,8.616586027514614,10.457580043330458,6.968503994142121
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2003,2.7540435789279587,3.4837183940838914,2.1507508263337964
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1999,11.4205908705736,14.6251760435857,8.86776424542022
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1997,4.399648891579151,5.643115148963065,3.3750050920305634
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1993,8.183152282245072,10.581338707207562,6.33172710747591
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1992,12.781009425953718,16.132504896242562,10.212950446192156
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2006,8.618481668459923,10.446364848537927,6.976229429149273
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1997,7.131925817375465,8.990679977199303,5.580147910072624
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1995,9.400556404014177,11.703749097733116,7.5861804084341955
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1991,6.817470959592961,9.148294913657937,5.04440094420455
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2001,8.87339473260921,11.365008095772698,6.7559004833445595
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2011,8.687775920546843,10.627391559275356,7.04570535939215
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1995,6.58083550849463,8.66104374605975,4.8897373770208965
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1993,8.42469596927725,10.71282115714901,6.650189656350068
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2005,2.7547566323355097,3.4851844340445353,2.1513290533122467
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2003,8.138425556275715,10.472560709755637,6.326615316533572
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2008,8.11073063094741,10.487969595816313,6.300380153400452
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1997,8.189359816653942,10.585281298953596,6.329815781653153
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2004,8.617793863009961,10.449193548881993,6.973911606070668
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1993,13.9946889123615,16.761199597238402,11.871304410181201
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1996,8.430284496308081,10.517251589811103,6.71375037580065
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2001,11.4206501257703,14.630390938267498,8.86739795539678
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1990,6.00020420158358,7.9283002311141075,4.490094152120861
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2013,8.993062609783692,11.318427474324873,7.149296539148707
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1999,9.309481382026698,11.508483927640365,7.562839784555206
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1993,9.385593405217007,11.682732961097079,7.574704421888848
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2004,8.44533818789983,10.612124916412311,6.742861071894958
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1996,12.211395137986054,15.300249495080628,9.756727194088937
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2007,8.111198947089232,10.48859335759478,6.300182383280313
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2001,2.7527371324898775,3.480416939832953,2.149742558810475
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2003,7.524669271940149,9.597162310821874,5.864453476255794
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2015,9.224085577279553,11.939934712681016,7.182463338876732
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2002,8.518097405901475,10.616723209463933,6.783150391450578
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2007,12.243752502189025,15.352645844001724,9.741626375279948
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2005,8.111645237396681,10.488585031378356,6.299506757030475
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2000,8.49345695114231,10.58552794682212,6.763071940835714
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2005,7.100176359007812,8.918488376147494,5.600308314202258
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2003,9.265112168909774,11.425309659343286,7.529727204969269
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2001,8.181245646873432,10.542797364893476,6.33181064191757
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1992,9.97828326978803,11.6114790397407,8.63629886701806
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2007,2.755144558137445,3.4863287155355063,2.151374178148293
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,1998,8.462256664493943,10.550253740971474,6.738268665812187
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1994,12.278584409084454,15.389426372738646,9.811229304489888
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2001,19.83677491136053,24.86296402506287,15.673403034698067
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2002,12.243034755964638,15.346682935627175,9.789119041087064
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2017,9.22239969973698,11.936953401930348,7.181149616075698
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2008,9.236638007650559,11.4204715952587,7.491249162052803
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2009,8.628059086928577,10.740678079539997,6.880103521756125
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2010,8.108614478153152,10.484255536243504,6.30016569804282
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2005,7.526076007288092,9.599572216719968,5.864352765660076
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.223443598935892,11.936801877591913,7.181814580041035
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1990,9.3424328300722,11.662265779822514,7.526769309113725
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1999,12.023592760153539,15.341055078261654,9.353209390073932
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2001,13.828241069013098,16.496601965713698,11.707708141067199
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2007,9.234189998008564,11.410127571385646,7.48567853174993
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1997,9.35839718355808,11.609747330955917,7.572487616127037
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1998,12.221328357558376,15.306757492166726,9.767386254052683
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2011,8.711933947205079,10.88491037055576,6.943264034120987
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2009,12.210026646315066,15.374721489226795,9.66264831694156
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2012,8.106113786687121,10.47939374588904,6.300508512058409
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2000,12.231443300973686,15.324556479410631,9.778053599249882
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2001,9.297970075361572,11.477349391829685,7.566744321667833
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2004,8.544178418291944,10.651953094181433,6.809888189389588
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2003,8.99450214112286,11.466221884114699,6.87420923698913
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2007,7.101168140241305,8.921153225730432,5.60031768617335
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2006,8.578448648623427,10.697793463469564,6.841456331675583
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2006,8.453139244273457,10.612667942582823,6.749460696946873
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1994,9.856967614367264,12.532324184315627,7.641370790683485
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2007,13.8317466839567,16.5367651507796,11.7039973899856
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2005,9.23676420599431,11.402306544933907,7.495585313660751
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2002,9.81191513793258,11.354817477863001,8.56319753968219
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1999,2.7510785468542647,3.4766545000776237,2.1491784361897452
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1997,6.901031233288696,8.989168531109188,5.294346020719693
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2006,12.25833538039921,15.382710783943654,9.759462895316789
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2001,12.041232145628266,15.348396303355468,9.38151585001888
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2005,13.8304428696949,16.5222285560829,11.7064738427981
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1994,9.9716712385658,11.616532002087201,8.65533642080063
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2016,8.101618237653753,10.468579283428738,6.300917360411057
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1993,6.654040689367921,8.82972687479479,4.924546087565983
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2003,13.8288049290932,16.5070936376254,11.7070364537641
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2003,7.099731980163941,8.917482108453838,5.599647718243784
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2001,7.52173553074557,9.591382206327896,5.863300405294216
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2014,8.103777678426493,10.47407713340786,6.300698334919902
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1999,13.828417011198098,16.489097111977802,11.710327680515698
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2011,12.32979517448538,15.590416624192512,9.729707293309007
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2008,8.619930298206265,10.443922994305588,6.978395611312553
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2010,9.23987921564175,11.441304386581862,7.498441112638229
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2015,9.200081480913637,11.566612749738676,7.303039040773504
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2018,8.099524707979295,10.460303883921418,6.3013152083766535
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1997,11.421109398064901,14.6193045010618,8.86940518301995
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2006,5.8719893668903325,7.751006810502463,4.403365304123716
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2006,6.26676976855222,8.102224401782943,4.773360628107078
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2012,9.259561910208038,11.494298800174255,7.474601850952152
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2004,12.255397860499535,15.372465943540762,9.79907236309904
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1993,8.86112185075586,11.3505599045794,6.74715677526246
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2003,19.834937292687833,24.86340742898841,15.664411271541415
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1990,9.225987964475038,11.938123914048692,7.180297039057591
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2002,5.54135738740469,7.1462945250843095,4.30791973821594
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2013,13.007781860832354,16.557558134625193,10.235565462112968
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1999,7.522582606550291,9.593735905289897,5.8628750272717
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2016,9.309336256621918,11.631404199498188,7.492106341087945
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2013,8.983507251896238,11.248969105953362,7.166573332018239
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2004,5.871218378066671,7.747694208623737,4.405561730716589
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2004,6.300235659255414,8.172854524277042,4.787944553892428
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2003,9.827677488260846,12.497681050298654,7.614412690523402
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2000,5.872719848664028,7.749982510670354,4.41066327765321
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1993,4.401317668610355,5.6439274379184035,3.398505776366879
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1995,11.4224150468703,14.614660040584804,8.87178434714677
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1997,12.026555720326792,15.358115756231012,9.337598417869307
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2002,5.872625053249869,7.749243865628408,4.409126938535028
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1998,5.856551663336097,7.7346521886654624,4.383983246169343
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2001,7.098300833680576,8.918078910126589,5.60043462962421
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1996,9.96310611003625,11.5781032579331,8.65899152409068
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2015,13.463603510531854,17.188406498486035,10.601804605067521
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2005,9.82377267222887,12.490668024455436,7.6072489379710495
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2017,13.459190749424454,17.17472604752971,10.597886711230716
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1991,8.8721864179193,11.3665928749157,6.753397929740711
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1992,10.15154170996661,13.057013527085987,8.05440869836773
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1991,20.672730511980266,26.02844451294914,16.31702092823216
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2000,5.54273408237583,7.149079063579659,4.31001543443022
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2017,9.2785846489852,11.689476143645546,7.352712154044057
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1993,20.08962396907733,25.206331393826808,15.86955402199372
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2002,8.435684226061342,10.602596667498613,6.731331162312655
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1993,6.901434413333282,9.020753957934225,5.287501411307057
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2009,8.109843764531638,10.486452252672768,6.300320076869885
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1997,8.85341945090186,11.338826295692698,6.74496903968238
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1991,4.406080261639327,5.677288930549784,3.3789529373478975
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2008,8.609739554344644,10.723094561051717,6.867469021175294
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2018,9.310928615496653,11.631667278330529,7.4926100802990145
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2007,7.524982272669624,9.596803284971033,5.860861414996997
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1997,2.7490616892612425,3.471993005963082,2.1481409181382105
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1995,12.031531612276803,15.397889502234326,9.339375613063028
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.355371618492908,11.787899034753828,7.396046156319483
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1995,4.400008758975085,5.641007114335321,3.375979213772335
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1990,10.004490794674,11.7002790888524,8.61515234837057
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,13.452958155345232,17.159891595200595,10.593018051944265
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1999,7.104496022683793,8.94111902538857,5.592255824003962
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2001,9.832215527626733,12.50617714054862,7.619208534929897
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2002,11.473662486223045,14.603984913127169,9.158312555916556
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1991,11.4290920221608,14.6166192383265,8.874535335044829
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1995,7.154105108025837,9.071955290855916,5.567055624971493
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1999,9.839125583717337,12.515208724154778,7.626346900395907
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2002,6.466230770177686,8.486835461771443,4.871542447000775
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1991,6.902942882691035,9.03344890325401,5.275231958648835
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1998,5.54414514570664,7.15082331765039,4.31193427855216
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2006,4.393759804508848,5.6486695420105875,3.3722085895252567
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2006,11.423761103354101,14.6454684358282,8.87067767216343
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2010,8.62134823536235,10.441645789578672,6.97826925084577
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2014,9.295639513424764,11.58844773464407,7.484018471330868
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1999,8.85277611268085,11.3382791110665,6.74431185399423
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1997,19.847432304423172,24.864244596532213,15.663334808197622
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1996,5.54533654168924,7.1509327305797,4.31321376787801
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2016,9.223521459479564,11.938655440003505,7.182062242064892
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1997,7.522952724507621,9.595768895605472,5.865951995474961
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1995,6.902506963373058,9.003739541239607,5.298175885652577
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1993,2.758337864280956,3.496828960817861,2.153288349297688
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2006,6.90429089361954,8.976065148136808,5.276296988421933
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2008,12.225283681775313,15.40144697002519,9.702771848563264
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2000,9.79072411696375,11.3337276927987,8.55364674146885
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1992,14.1659818327132,17.0038620610005,11.9644324639104
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2006,9.94392701819304,11.5740253241666,8.678171887707729
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1991,7.150094957614041,9.06245051431533,5.564202052414386
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2006,12.10101625823368,15.429748429925233,9.430031125637104
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1991,12.04557093954487,15.508612134145249,9.280055866327096
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1999,19.839859783347443,24.850707073817166,15.670979994797394
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2002,11.4211957448609,14.6329910890401,8.86763124082948
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2009,9.239123812400143,11.430904847744815,7.4959538493491475
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2004,9.852166743230379,11.4523741567666,8.60758352283236
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1990,5.54846555827853,7.157700057597389,4.310280011473281
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1993,11.424957400541,14.613277707845599,8.87305460005364
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2012,8.825788247771978,10.902774222071013,7.0911122618202915
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1996,5.827588886053527,7.713703935363088,4.346981032206942
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2000,8.424500841894995,10.591843954289626,6.715474890422196
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1994,10.48789389710333,13.530374112381455,8.364392247919666
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1998,9.860491134062679,11.428360232175299,8.57353954980697
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2010,8.648757753404912,10.782479457662717,6.894495237131958
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2015,8.102676186912362,10.471840401086267,6.300781694221727
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1991,2.79007912086684,3.5457801397524267,2.1709640890195563
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2011,8.10732358349135,10.481840999357681,6.3002054043001525
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1998,8.416022260369246,10.587493120220575,6.695251918082745
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2006,9.221681672807321,11.7241036057752,7.00615721199447
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1991,7.642509672456142,9.75146672460377,5.9170113559506765
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2002,4.397988374200759,5.650752325522572,3.373015793833587
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2000,6.581527997365944,8.659134846224164,4.898867860157771
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1993,12.043478594080817,15.492226803753287,9.305430651801794
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1998,8.85261380798481,11.3371526964987,6.7441585471816
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1992,5.892080438667791,7.7979658556703955,4.398840210972554
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2018,9.222478848735523,11.936561928758426,7.181141435470466
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1993,7.562561933943352,9.662534103501903,5.8695749762184
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2005,5.5394358730366,7.14211565518139,4.30537123004824
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1995,2.746087641333643,3.46507964860022,2.145924775204846
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2002,13.828268219380899,16.5005625397801,11.7071846499901
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1998,6.581219390590435,8.659552520197158,4.895468122513854
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2004,11.4225629214828,14.640214580235899,8.868893906592449
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2006,19.836467028636882,24.85649332517274,15.667972709377127
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2004,12.089878973021055,15.409582340649047,9.422677275324576
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1996,7.1457913300994695,9.035367786556261,5.574390962025106
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2007,9.819896396689193,12.484264265631667,7.601261849714865
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1992,5.54746479263429,7.153575242048451,4.31215832433846
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1990,9.77180359090831,12.598376569830503,7.724224544105457
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2002,12.05770685198242,15.369244600918524,9.395192031397128
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2004,9.06915974816478,11.532263388332302,6.917490630471609
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1998,19.843704541433848,24.857598353107775,15.66704376396919
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1997,9.84617436305257,12.52434822401089,7.6347685782629755
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2006,11.670818101412175,14.733710039278309,9.361389625794382
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2017,8.100558329990406,10.464323675150316,6.301185088586463
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2004,4.396558757306258,5.651016144335952,3.3727706151112447
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1993,7.152772702015492,9.073045308431627,5.56742325748839
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2006,2.754952889785433,3.4854008048812615,2.1512997383556702
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1996,8.411358846895135,10.587906326610067,6.679452359132304
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2002,6.9030265973602445,8.974577585269111,5.286317854213083
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,1994,5.830461046442338,7.7191582268506505,4.345078778163202
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2013,8.104944168556557,10.476698199613214,6.300611990244387
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2000,11.420285262102801,14.627626647069597,8.86753403549055
+Summary exposure value,Southern Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2014,9.143275806148196,11.704741329324845,7.18681424555248
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1996,10.73298028444305,13.824328468467915,8.602922866629804
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2003,5.872167504429305,7.748898681090896,4.407670096928303
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1995,7.522778801268037,9.594419940434296,5.867843734812317
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2004,6.903857367143121,8.976357388727754,5.281195210170436
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1991,9.867422355881823,12.545041858079694,7.647335070168891
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2004,19.834864494256152,24.860742736420978,15.66338382721312
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,1998,11.063854475680545,14.178842458481933,8.859290997224463
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2000,7.097860530847698,8.917192280048718,5.599799455367963
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2001,5.872619886721071,7.749120514447876,4.410108618715487
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1999,5.54346799730635,7.15014804363604,4.31103089666804
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1994,13.8775754362026,16.5432933730492,11.798016035232598
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1993,9.86022776757307,12.536204291902381,7.642877438487561
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2003,9.83296006163128,11.4234305067208,8.57405940467329
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2006,7.5253684582392,9.597742781189133,5.86295499939966
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,1995,9.853649986883163,12.528280543472636,7.639770492197129
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1997,5.5447991666087,7.150961296821801,4.31263831231488
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2014,9.11982672936,11.447476264098585,7.257905970301816
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2004,11.58764498678936,14.633168816628986,9.252421514840332
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1990,14.608751311130499,17.6138246530055,12.212334521914899
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2003,5.54070599309973,7.1449013723091,4.3069291618206
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1998,11.420760652055998,14.6222086602556,8.868439098126581
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2004,7.100044086775031,8.91790069272263,5.599797674514671
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2002,8.92474842934849,11.402139773122197,6.81461351217595
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2006,13.831067637572596,16.5294569965129,11.705342334790302
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1990,13.57065757269978,17.121045405597165,10.710687466191569
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1996,6.581098429536763,8.660513631465337,4.891782090892483
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2000,11.334608247385612,14.467141945577232,9.02428106132664
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1998,4.399788862944414,5.645272234751363,3.3748355650813564
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1998,12.023480847703844,15.365673882257527,9.337778707468447
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1998,6.900338244619965,8.983537742019179,5.292742419180889
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1994,5.54629651238377,7.15099954428819,4.31338460161619
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1992,8.439389747298398,10.759907421313901,6.641639679328999
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2006,7.10080170292081,8.919694723678495,5.600665426419961
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1998,13.828323419150598,16.4847993453345,11.711519126863198
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2004,13.829485439459399,16.5137072665211,11.7068632246956
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1994,4.400148158589114,5.639016471735641,3.3967817792381187
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1994,6.9019331084756885,9.01660488247821,5.293252118023139
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2007,10.120581725986401,11.7620963757323,8.831019998148989
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2000,4.399357741701284,5.6491193360048815,3.3738192964241818
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1992,6.727193340560735,8.992659208940943,4.969839817676088
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1990,8.480584929168725,10.874601007252483,6.601197726423267
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2015,9.307817936843533,11.628579788377708,7.491642135865223
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2011,9.246212651310897,11.459121875448396,7.470600307174754
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2005,8.450118391544873,10.611955668336929,6.746913970186252
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1995,9.97661987608258,11.607059396832598,8.66505153898348
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2002,2.753488696927148,3.4822709729479104,2.1503064894346053
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1999,9.81191218813539,11.360575005391802,8.548307770920351
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2002,19.835302545260237,24.86636859859042,15.668604092469533
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2001,5.5420556034883095,7.147753537070679,4.3089731429875195
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2000,6.900644155036854,8.971579400550498,5.290097711548229
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1990,6.919153592184986,9.376175030872865,5.106301363464691
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2004,2.754437338437319,3.484859348836513,2.151088149304412
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2006,9.821679676451303,12.487527159442816,7.603244852845259
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1999,8.419555191410486,10.588948387832152,6.705365884917907
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2000,12.029440959164015,15.333484297632985,9.371892111422454
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2005,6.266430094327452,8.101417333457698,4.773209216001755
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2003,8.440533170808182,10.606867570061372,6.738835283030556
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1996,11.421627110742802,14.616599964256302,8.87050665594281
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2018,9.315071852111325,11.740525466422747,7.373331712155432
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1996,8.85452199760534,11.3417963285514,6.74589998302164
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1996,4.399739018965244,5.641824915914278,3.3750649466374334
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2016,9.237968847811349,11.624589031896186,7.320890720265999
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2009,2.755258763704331,3.487789838053616,2.1515915363499287
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2009,19.84372587405239,24.868951765014366,15.670173741754901
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1996,13.828840628037803,16.4781135312353,11.7137648934459
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1994,8.41457008548402,10.637611184614842,6.655406935613241
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1998,2.7501821709608785,3.474600648752989,2.1488546868210903
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2005,9.86309074740061,11.4948296178218,8.60860408172319
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2002,7.5233839690145095,9.59437683658905,5.8640271078073525
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1996,19.851252454370734,24.871324664318355,15.65965658014766
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2008,5.878922257291317,7.767084021907373,4.404417108846262
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2004,7.525848219721717,9.599692109528464,5.8650476616586875
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2005,5.870727614359132,7.747825665951558,4.404022693355233
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1996,12.03104468184122,15.376784399298668,9.341247976337751
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2007,5.53817721706512,7.139617947607101,4.30439520968908
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,1995,5.54574771677439,7.150622992194849,4.31357296297768
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2002,7.0991540663871895,8.917097783944469,5.599923357664307
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1994,8.85831701168297,11.347162801212802,6.74699400439755
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1991,9.989563019240471,11.6475607450608,8.609615627775199
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2003,6.375654657100798,8.304540793237827,4.831566131501749
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1996,6.90196854350668,8.995893891562512,5.296244954187048
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2001,9.79590858256094,11.3318089880453,8.55631324066311
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,1994,6.603448266152975,8.739624238404252,4.896614934173906
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2013,9.277514885784443,11.54151715261635,7.478800520207596
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2010,12.204689605950357,15.432956850019853,9.640032205824156
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2009,7.102323823293802,8.923801263037529,5.600724281269693
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1992,11.426805290914801,14.614301989806602,8.87385569987668
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2007,8.454414135411563,10.612460945593542,6.750301283385984
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2000,2.751906784024985,3.478440972954232,2.1493769102191305
+Summary exposure value,Eastern Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.098490772998094,10.45664777854744,6.301490336323193
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2004,9.82557868090852,12.493694170488904,7.61075891496897
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2000,8.85359024658181,11.342432520070698,6.74517551934907
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2009,7.525568281490883,9.59810581671809,5.857060504638163
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2008,5.53759913895946,7.13886711000297,4.303803768243291
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1992,12.046091111693075,15.508923381860534,9.30757491233408
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1990,11.431754142336302,14.6200038757733,8.875077937395961
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,1998,7.116908521700213,8.969482454098907,5.585800525975825
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2016,13.461586317567143,17.18150841701457,10.59985069757942
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,1998,7.524902000355907,9.598039670428323,5.866145972093599
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2000,19.838319691773552,24.855438663508256,15.677048055059592
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2000,13.828746159361998,16.493261812267,11.709163959764199
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2009,11.801992715534555,14.949406683354075,9.479304988238276
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1990,12.047703434129367,15.540682682762094,9.272656553872194
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2011,2.7611024666521886,3.5048156818165017,2.1562472542955695
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2007,5.875009009630599,7.757905247659205,4.403628642775564
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2007,6.267063567894585,8.103308065886477,4.773616989907301
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2017,9.311479935641286,11.633064105273668,7.493202625657014
+Summary exposure value,Global,Both,Age-standardized,Childhood sexual abuse,Rate,2012,8.834871202820677,11.05497572973235,7.046827143700063
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2011,7.546986384375243,9.63927122773233,5.866256886353748
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2001,8.430458109736358,10.597828593055041,6.723629866373325
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1997,9.91740121367736,11.509807567008801,8.62287546334316
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2002,9.829753829579063,12.501756206353921,7.61702324148183
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2011,11.799411440773373,14.969031196978028,9.510961560006812
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2013,7.638087393894645,9.77035490457258,5.920735278765562
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1996,2.7476503163302644,3.4686966269779886,2.146918958895685
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,1993,9.97203690214356,11.6101917521561,8.63844943845187
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2012,8.516329717537365,10.735553408445963,6.75925091905996
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2008,4.3915244929312225,5.646677963175535,3.369365977967309
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2009,9.815442755851315,12.477316092530467,7.598639269578849
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2010,5.885237845246428,7.7816951147522655,4.405786291816635
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2009,13.8318026664724,16.5470435644273,11.699901304294801
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1992,4.403143503422713,5.665114040389034,3.3879770864703604
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2008,6.90382077851917,8.977672199317043,5.271743803223258
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,1992,6.9016027747692705,9.025773996332026,5.281610365214767
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1994,11.423554452756598,14.613478189730303,8.87225526464095
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2007,4.392504552904784,5.647732934593268,3.370576174845564
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2012,12.635185823225726,16.01583283083349,9.973955077386208
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2011,13.756692542478103,16.555989815629,11.568642731190199
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2012,6.293176944504247,8.187132305633101,4.804163934389785
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2010,8.458408028432258,10.60911531430974,6.758091921175158
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2013,11.696951733350225,14.851406813102223,9.462374578898835
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2001,6.5444332510409655,8.61186003613954,4.897374948490126
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2000,7.520588264700535,9.589636747984637,5.8626822005427774
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2008,8.45509342849625,10.611193761295427,6.751627307504806
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2012,5.914222366966372,7.82190274143478,4.4287571630524925
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2011,9.85172241173575,12.527094811079634,7.6372450484401595
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2010,4.389104373172606,5.643153050137473,3.366372137993534
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2008,9.49609326009652,12.061177818538301,7.214250778440991
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2018,13.456314249573959,17.16759471313677,10.595598378256826
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2010,6.906339069178985,8.995364312985622,5.266192988593145
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,1994,12.034629609063476,15.437111793984734,9.307484188685976
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2007,11.424626884489502,14.647524037057599,8.87182239213607
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2014,6.340893839689846,8.352733265856424,4.835475827430767
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2010,6.266928085014458,8.103213725936333,4.774474229371519
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2014,5.951282590350039,7.87597082991909,4.458835856433336
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2008,6.267237162578956,8.104448249376754,4.773928532297123
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2008,19.841093244157882,24.86402410390992,15.670012985227617
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2008,2.7552483214420875,3.4871116607069896,2.1514306181612186
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2015,10.195305976282183,13.026205011989909,7.903900640998611
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2013,13.341215363102599,16.259670446528602,11.013836168281802
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2007,12.10282191100243,15.431954957918826,9.429643741891187
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2013,10.06140445959316,12.828083483215543,7.806028686123962
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2010,10.5613200930232,12.321758707621198,9.07753628665213
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2008,7.101631162066173,8.92257750904354,5.6002967027843935
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2012,11.4268829314282,14.650175007884899,8.87587728666427
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2014,4.617050385144732,5.897338623223444,3.5636068901834927
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2008,7.524970240448507,9.596916087573776,5.858628266611093
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2014,6.946159754904402,9.133074734314906,5.244693658455165
+Summary exposure value,Western Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.30608897235842,11.624740688579225,7.489848187128914
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2008,10.3280488385701,12.0220483831269,8.96348535602031
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2012,12.103180928515634,15.478885447592994,9.370948389462896
+Summary exposure value,South Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2014,13.326791399189894,16.959667742820134,10.475247794926897
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2010,11.4257838210602,14.6500095087021,8.874345552137319
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2010,2.755220510702798,3.4884360666335907,2.1518102994962485
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2008,11.4253241320139,14.6489593336955,8.87289954704897
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2015,11.62753201267926,14.781493430335674,9.338126991206169
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2010,11.817785579484886,14.973194785140146,9.515796615670128
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2010,7.103156802579279,8.924723056962867,5.601478727563928
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2014,11.427565021021099,14.649109183662901,8.87689846425382
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2014,12.100535656519037,15.51625905557286,9.338105331509789
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2010,12.103918943412635,15.43271266038683,9.42511225990441
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2014,2.8026126395565187,3.5753655528568657,2.1826407765915197
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2008,12.103610156045027,15.433238710379849,9.428303932909138
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2012,9.70052312187353,12.312189383019,7.43369892182361
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2009,5.53702276697124,7.13842545582536,4.30317003609324
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2010,9.67654603479102,12.2872544739605,7.37013329376635
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2012,7.105203022413077,8.927603327834374,5.6024208043662584
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2008,9.817418827346327,12.480159475945452,7.599545672882928
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2012,20.220564954508745,25.406678286868484,15.97466284259359
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2012,10.241359229515,12.139358767109698,8.66745524615875
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2009,8.456172448686615,10.609855836643533,6.754346757033741
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2008,11.766103942409906,14.872835982163139,9.40798249357178
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2012,4.473218236377234,5.692664108618763,3.4544306699216363
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2010,19.84591651127485,24.870014294953773,15.670988702576356
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2010,7.5268802427014725,9.600775720998065,5.856342670065313
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2010,13.8307719327807,16.548411566517903,11.697491134398
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2009,5.882455013943705,7.775508174522226,4.405231519043328
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2014,9.76080070741749,11.8669789934835,8.02560950214871
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2012,6.922922241365677,9.039506458477806,5.252958677407225
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2013,5.535898791265359,7.13904442669953,4.3028655497702895
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2014,7.683262105696064,9.833997321559497,5.934426042539405
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2013,5.93451492973277,7.851292147631289,4.44508197488632
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2009,6.267193865468625,8.104485925606003,4.77421659370383
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2015,13.094401178864198,16.0545146709072,10.7010993815236
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2011,5.53700595338034,7.13790163904962,4.30328399878493
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2015,5.53495942839319,7.14119909092692,4.30277020790575
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2010,9.813349809147448,12.475508520623817,7.597316220167097
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2014,9.70609505764869,12.3378934809752,7.43357874850066
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2014,7.108314011288145,8.930821767200499,5.603941023435205
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2008,13.8321381293324,16.544612807364302,11.702197128857101
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2015,5.9595516359867675,7.888174560425773,4.46296330028031
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2011,5.895521057731488,7.7948475855057975,4.415124067561866
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2009,4.390413709594899,5.645122180285855,3.3680330497015265
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2014,11.64925908563062,14.800899693360039,9.385536954979536
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2009,6.9053335777574265,8.9871412017643,5.268650020952916
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2012,11.7529859621096,14.912643263240499,9.475141969538136
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2013,8.565655757846038,10.822292606400286,6.769468225555067
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2009,9.61549878549205,12.1998182808646,7.31759029047018
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2012,2.7741738156739517,3.524174342962813,2.1658815130308544
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2017,10.188500817895306,13.015907986966537,7.900733942931881
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2015,8.641387159961528,10.970975789355876,6.789822977950068
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2014,20.825064181952627,26.105797397943643,16.42884370079497
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2009,11.425817125568798,14.6498415539116,8.87381987699542
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2011,8.476993728207136,10.620418095099977,6.7638417028345375
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2009,12.103650189678612,15.432935740251551,9.426448234295675
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2012,13.567063250830099,16.3870384460121,11.3264125125796
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2014,10.157225779954723,12.959510266099306,7.8781429295220455
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2012,7.588108879887398,9.69854629513924,5.890832672399761
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2015,6.353563888054199,8.425291422059649,4.837368715780346
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2010,5.53703091851113,7.13809155329985,4.3031717658145
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2013,9.704361802075171,12.3240416564329,7.431833188522501
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2016,9.70897812551671,12.348604306631401,7.48557406456485
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2016,4.637189290445294,5.972615580744798,3.607565500433922
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2011,4.41267882514932,5.628366700636315,3.4042068942685884
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2011,6.912729809283831,9.008835317770423,5.259548515834445
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2016,11.4281073547106,14.6452530738778,8.87737428346676
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2011,6.275091972716419,8.135537499396943,4.797861676446942
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2016,6.95615902368026,9.157302618481243,5.245161686987903
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2012,9.946796475932336,12.66238398330336,7.716721795805682
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2013,6.317381518143178,8.263775026568016,4.827174506896192
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2016,12.16479211093821,15.660699525009768,9.340332655241664
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2016,20.955012879167327,26.319639174284042,16.500963682418753
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2017,11.669075706344255,14.99586093234673,9.294223083197263
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2013,20.545528438118787,25.780524590280095,16.22342911782746
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2018,4.624788912907748,5.95323167449478,3.5792557977732233
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2012,5.536442590496829,7.1383348378216,4.3030382606861695
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2013,4.549056833260503,5.80148265787116,3.5197507774525167
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2018,6.960144481593199,9.152787499551927,5.251290526726398
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2013,6.934982104502077,9.086773512610527,5.250298186304158
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2015,11.427612137730401,14.648202601575699,8.87702434711559
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2014,13.158312272959899,16.1273224986109,10.797422840627101
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2016,2.8079065311079887,3.5871628298514846,2.1806658416248355
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2015,7.109773114720312,8.932186474022503,5.6046793579478456
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2011,10.4656302191284,12.3032515975366,8.95103954440883
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.850821955465355,15.030971671019836,9.48853834895598
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2011,7.104227739659008,8.925987439069957,5.601988725029443
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2013,11.427285545312401,14.649804296882198,8.876480575530959
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2013,12.100128238715776,15.491569457137953,9.350222039902242
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2017,14.9046902426487,19.1111331756635,11.6638636781267
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2013,9.97708745469788,11.966929357133099,8.33366925103579
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2016,7.7121805034727124,9.879256625954973,5.925247187765242
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2017,5.53984999063608,7.154582376242891,4.30085609587686
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2018,2.8070814510279956,3.5861991389364487,2.178997431936791
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2018,7.719582928564367,9.88632203518169,5.930717820387005
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2018,11.429073143908901,14.639173898691599,8.87760967246661
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2015,9.70773240691466,12.3417469608864,7.48870195193022
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,14.8992335279307,19.1006466635635,11.657075919630199
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2011,11.4263995688571,14.650257120247304,8.87517224250188
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2016,7.110252601382652,8.932572682434152,5.605022476261038
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2013,2.7896301411469806,3.5545802507137196,2.17682648734388
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2018,10.185763424739875,13.010850400832243,7.89972960503261
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2015,12.106437509624035,15.560547433390454,9.329056799610303
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2011,12.105967761966285,15.445709315010362,9.407064840194376
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2018,9.705686114228659,12.353820588218902,7.474853749392669
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2018,20.96287278459245,26.36557308930697,16.501309141448107
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2018,12.22662900849193,15.758370176485705,9.35034511243506
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2015,9.67826822228219,11.8337784390005,7.88287002525708
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2015,20.94455239196909,26.286406547635206,16.494594216317726
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2016,10.127247968620601,12.495461166552198,8.17493805406453
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2017,8.76508260864609,11.210492569623437,6.867076382400046
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2009,10.4982424672416,12.217644412382,9.06505428391309
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2018,10.695580390303599,13.2706469906861,8.61866678662177
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.5393782167987,7.15665613125307,4.30069293904765
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2014,5.53540847305211,7.14001427016584,4.30278958842403
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2011,9.69214322353859,12.309871298388197,7.3869452752994595
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2016,10.191372153821797,13.019882512802312,7.902357831722109
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2013,7.106643319101434,8.929301642310296,5.603124381941435
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.978882148549721,7.940704583583523,4.428438633905769
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2015,4.651391859881153,5.972000504832149,3.586589405757038
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2017,6.348131365413456,8.415304931463009,4.835132288285044
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2011,19.955285022740398,24.97799236889291,15.781628287166468
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2018,7.129096013294545,8.974363882153739,5.5897250553461815
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2017,5.9615632424774025,7.892027049740244,4.462166765974206
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2016,11.640294428240788,14.866957009230813,9.331761887512984
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2015,6.952989431413527,9.170090175947685,5.239133860469956
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.795224064188972,11.272592297488645,6.88034668297659
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2016,13.950294942488197,17.5083374940118,11.246264949636
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.350558510809965,8.415375055032957,4.83007965429917
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2018,5.968479787341048,7.9118443250705734,4.449321602177269
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2015,2.808361698978001,3.5872548845591274,2.181473551215849
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2017,11.4286034138766,14.6420346154757,8.877578137620171
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2017,12.227302578366746,15.757342851706674,9.353163214585974
+Summary exposure value,High-income North America,Both,Age-standardized,Childhood sexual abuse,Rate,2018,11.73478009265525,15.020272715439498,9.38688728051182
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.69825704021815,12.3498243760426,7.46490407320122
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,20.958619149657657,26.37733556853044,16.493682418872766
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2015,7.708642057051583,9.875992607807202,5.923346887041898
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,4.625127011957884,5.9529650512611925,3.579631989960371
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2016,5.53713086459183,7.14773212983753,4.30159071125383
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.9603865997120264,9.15343802720827,5.251004145219187
+Summary exposure value,Andean Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2018,14.9000387106452,19.1028050531558,11.6585073642431
+Summary exposure value,Central Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.429533595994599,14.636752555225,8.87747788668352
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2014,8.612462172734459,10.930820759365993,6.786048359902471
+Summary exposure value,Southern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2017,9.70924641828705,12.3539751719112,7.481707376579159
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2016,8.703124945193702,11.116398047800976,6.839605189531869
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2016,6.350779031550571,8.420222203288494,4.836206103865746
+Summary exposure value,East Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2017,4.624526391693429,5.953238359263548,3.5792170100881475
+Summary exposure value,Eastern Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.226002043281115,15.759448737356733,9.347629507607401
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.806713952530308,3.5857693881822446,2.1782233889916056
+Summary exposure value,North Africa and Middle East,Both,Age-standardized,Childhood sexual abuse,Rate,2016,5.961025153184518,7.890802937176559,4.462898325934125
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.1677612252527805,9.08354064788219,5.578804294271903
+Summary exposure value,Southeast Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2017,6.959866214807919,9.15241652545928,5.2514173773389805
+Summary exposure value,Western Sub-Saharan Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2017,20.966517436225722,26.35128763729966,16.508014700465196
+Summary exposure value,Caribbean,Both,Age-standardized,Childhood sexual abuse,Rate,2018,5.53966593872644,7.15560961327223,4.30086472157
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.723172369583929,9.889489965983033,5.934698645629491
+Summary exposure value,Oceania,Both,Age-standardized,Childhood sexual abuse,Rate,2017,7.110591695114745,8.932977040585596,5.6052474204518665
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2017,10.6000037616808,13.1643696255788,8.54367975227003
+Summary exposure value,High-income Asia Pacific,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.182953205349095,13.005497270273747,7.8985622013202486
+Summary exposure value,Central Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2018,8.773263149252708,11.238979859919368,6.868863589143088
+Summary exposure value,Central Asia,Both,Age-standardized,Childhood sexual abuse,Rate,2017,2.807481031130147,3.58668300327825,2.179831078074937
+Summary exposure value,Tropical Latin America,Both,Age-standardized,Childhood sexual abuse,Rate,2018,6.348008036552501,8.412915801846562,4.832148275517978
+Summary exposure value,Australasia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.938600670617,13.5699919728896,8.85072793607983
+Summary exposure value,Central Europe,Both,Age-standardized,Childhood sexual abuse,Rate,2017,7.715885560354868,9.882674659992144,5.9273345177534855

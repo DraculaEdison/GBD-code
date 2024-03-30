@@ -1,0 +1,205 @@
+measure,location,sex,age,rei,metric,year,val,upper,lower
+Summary exposure value,South Sudan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.941627908313698,14.226103156099201,8.29103451671161
+Summary exposure value,Luxembourg,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.817850060683929,11.112796327403698,6.90761130694151
+Summary exposure value,Republic of Korea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.37575069280595,12.002382950560301,7.22023046725143
+Summary exposure value,New Zealand,Both,Age-standardized,Childhood sexual abuse,Rate,2019,24.414614700176298,30.900312553299703,19.1604134024294
+Summary exposure value,Norway,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.3673390272172,13.1152405344918,8.147211528487611
+Summary exposure value,Sweden,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.8337000965291,13.9445779346453,8.442020815217898
+Summary exposure value,Uruguay,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.8498290696377415,10.122956289936992,6.1310627525360655
+Summary exposure value,Australia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.55075153699085,10.5454833787219,6.86723590439911
+Summary exposure value,Andorra,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.80267438078636,11.092324502943901,6.894031962011099
+Summary exposure value,Austria,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.82628460104897,11.129689060413895,6.920972211799388
+Summary exposure value,Argentina,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.585709267744189,12.4524368432381,7.4733786168032506
+Summary exposure value,Bahamas,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.55097962191181,7.15862934511393,4.316988252428901
+Summary exposure value,Denmark,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.20861717566746,7.82139503556137,4.92603984893503
+Summary exposure value,Germany,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.106232552689598,15.736593935839199,9.471909401423991
+Summary exposure value,Cuba,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.52052017791205,7.10809163159391,4.2758137500393705
+Summary exposure value,Ireland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.859571938684843,11.36315975285629,6.770403669243924
+Summary exposure value,Malta,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.8145281624815,11.1145485151835,6.90527210041912
+Summary exposure value,Barbados,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.540014916326,7.1474306202405895,4.30200695211397
+Summary exposure value,Saint Lucia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53158360481253,7.14021189410187,4.29055545168194
+Summary exposure value,Portugal,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.86968178094174,11.2147018269992,6.97931423522979
+Summary exposure value,Dominica,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.51994272500491,7.1205635828146905,4.27719240792963
+Summary exposure value,Trinidad and Tobago,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.52718104241212,7.11689652354282,4.2894893449884
+Summary exposure value,Switzerland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.72692892833909,12.3624569827156,7.79938002355655
+Summary exposure value,Greece,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.85473985353934,11.18897577357,6.9587392099776295
+Summary exposure value,Israel,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.983642047787681,12.803553643375354,7.7540274342680755
+Summary exposure value,Guyana,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53895312192597,7.15546649180379,4.30154502627008
+Summary exposure value,Sudan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.679228051670719,7.53624576856877,4.2131479663175
+Summary exposure value,Saint Vincent and the Grenadines,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.52192679183008,7.12314595693297,4.27824233113962
+Summary exposure value,Costa Rica,Both,Age-standardized,Childhood sexual abuse,Rate,2019,21.7753501830117,27.721641001775797,17.1503613975087
+Summary exposure value,Honduras,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.518464902403398,13.4643748574786,8.23260780993558
+Summary exposure value,Canada,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.04813581997445,9.7740948092276,8.43188284669665
+Summary exposure value,Peru,Both,Age-standardized,Childhood sexual abuse,Rate,2019,14.8748155833422,19.066894971722505,11.6457394164935
+Summary exposure value,Paraguay,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.345295837236621,6.885356713225884,4.081068209016727
+Summary exposure value,Dominican Republic,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53267911717553,7.119970946948841,4.29477015580982
+Summary exposure value,Spain,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.46169274926004,6.94217360229155,4.26917184014024
+Summary exposure value,El Salvador,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.306932614913659,9.26161576913872,5.65626918116139
+Summary exposure value,Algeria,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.68826734186564,7.584501962131986,4.228426781848841
+Summary exposure value,Haiti,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.55964723897132,7.21309699855392,4.32956952857851
+Summary exposure value,Mexico,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.795183011726996,10.129400834924228,5.973559874652253
+Summary exposure value,Venezuela (Bolivarian Republic of),Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.59389901511426,12.2114549989989,7.49094842967145
+Summary exposure value,Iran (Islamic Republic of),Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.35040978110827,8.33874334075201,4.773870963887479
+Summary exposure value,United Kingdom,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.44354161092222,15.85127411171318,9.787108031818034
+Summary exposure value,Lebanon,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.49344785659962,7.29217006005054,4.09825596550414
+Summary exposure value,Bolivia (Plurinational State of),Both,Age-standardized,Childhood sexual abuse,Rate,2019,14.8995087165419,19.1261114035993,11.697347139919302
+Summary exposure value,Chile,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.61439553454388,11.138205881234807,6.69796424018677
+Summary exposure value,Palestine,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.68108687291363,7.59853195481391,4.199335799314239
+Summary exposure value,Saudi Arabia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.74812540359083,7.87976884083411,4.11772924332946
+Summary exposure value,Bahrain,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.429239297360601,8.722842666799098,4.596905618977943
+Summary exposure value,Iraq,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.70865405808642,7.6211438507155504,4.21794784101637
+Summary exposure value,United Arab Emirates,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.995468411574681,9.65146245643596,4.94334648665291
+Summary exposure value,Nicaragua,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.330435377256599,9.33245682053725,5.6880509099065595
+Summary exposure value,Bhutan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.99397403111449,11.239837321237,7.11711502960382
+Summary exposure value,United States of America,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.165724883108025,15.654316531935352,9.566993659246352
+Summary exposure value,Oman,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.51348506748527,8.897582319029459,4.611390311170751
+Summary exposure value,Syrian Arab Republic,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53737443583486,7.3208299527332805,4.14512648172117
+Summary exposure value,Antigua and Barbuda,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53984262047992,7.160786033391299,4.303133195301459
+Summary exposure value,Belize,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.545931938446659,7.16190258403076,4.30792179712006
+Summary exposure value,Central African Republic,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.4217913597107,14.623520466982198,8.89176146386222
+Summary exposure value,Egypt,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.790469299873478,7.731284026031797,4.291118344083033
+Summary exposure value,Jordan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.89599032482512,7.878972336543991,4.323853531535501
+Summary exposure value,Equatorial Guinea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.1929463107157,14.169411414657501,8.68843796359554
+Summary exposure value,Libya,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.76096326785271,7.686032517651201,4.25397487066755
+Summary exposure value,Afghanistan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.68913215668825,7.589336691374041,4.19313825504172
+Summary exposure value,India,Both,Age-standardized,Childhood sexual abuse,Rate,2019,14.75800466202358,18.866212717059884,11.548521231081873
+Summary exposure value,China,Both,Age-standardized,Childhood sexual abuse,Rate,2019,4.67134713795582,6.009932540203209,3.6141670836821933
+Summary exposure value,Comoros,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.951075381793167,14.276795771400655,8.18822064257879
+Summary exposure value,Qatar,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.040639770688779,9.700499736234471,4.95469528949864
+Summary exposure value,Ethiopia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.154602254283459,13.640126100005661,7.4149305349581685
+Summary exposure value,Tunisia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.61169700555236,7.48256435432743,4.16847078751055
+Summary exposure value,Democratic People's Republic of Korea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,3.4928224712539904,4.58213176709725,2.61966892295885
+Summary exposure value,Congo,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.4788056059419,14.680755383587,8.9231266677288
+Summary exposure value,Malawi,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.774489047487199,14.028921135752102,8.090137593759179
+Summary exposure value,Malaysia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.6748026594153,14.019847612841199,8.02895794359038
+Summary exposure value,Yemen,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.65264587168118,7.5443484046577,4.19828521674203
+Summary exposure value,Cambodia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.66980612371389,7.72689588313233,4.012583331656501
+Summary exposure value,Grenada,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.5080015671619496,7.0985237383894795,4.25988595367156
+Summary exposure value,Jamaica,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53494508001991,7.14631290046693,4.29901157221422
+Summary exposure value,Gabon,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.4835510858285,14.712644579176198,8.91965499959151
+Summary exposure value,Philippines,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.280993531047514,8.592667999209572,4.502473092261102
+Summary exposure value,Seychelles,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.94835175140986,9.36434114023915,5.0628400051414
+Summary exposure value,Bangladesh,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.745395754908411,8.50289812954507,5.21895116153641
+Summary exposure value,Maldives,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.43204786560059,10.0790805303442,5.23799101763933
+Summary exposure value,Suriname,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53407155029494,7.13508966358117,4.2913699782003
+Summary exposure value,Uganda,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.589060245658198,15.892291511343801,9.853306353893402
+Summary exposure value,Botswana,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.449884916881,14.9998052831841,8.707598267897811
+Summary exposure value,Nepal,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.09267921760457,11.410823762644199,7.18337090924034
+Summary exposure value,Sri Lanka,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.75375345549395,10.4497002808891,5.64148287850853
+Summary exposure value,Kenya,Both,Age-standardized,Childhood sexual abuse,Rate,2019,20.248703951133386,25.752351109945103,15.429050785417608
+Summary exposure value,Kiribati,Both,Age-standardized,Childhood sexual abuse,Rate,2019,13.8184121709058,17.8682536332264,10.803450085290802
+Summary exposure value,Papua New Guinea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.033092352153099,8.898852335416313,5.474265961974348
+Summary exposure value,Viet Nam,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.7597214926915505,7.84889792146139,4.028700513100681
+Summary exposure value,Mauritius,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.7117415765532,8.928209532493769,4.97541946792908
+Summary exposure value,Benin,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.544181782058605,24.6506932824352,15.3687504627483
+Summary exposure value,Democratic Republic of the Congo,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.432168039695698,14.631973048320598,8.87438967131471
+Summary exposure value,Cabo Verde,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.4568475097504,24.458993097227598,15.268975174238598
+Summary exposure value,Armenia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.79503012320351,3.5665152820442003,2.17563583291383
+Summary exposure value,Marshall Islands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.07293636131293,8.93413612455795,5.5051387653397805
+Summary exposure value,Ecuador,Both,Age-standardized,Childhood sexual abuse,Rate,2019,14.937099835931,19.1623396208176,11.704208202890399
+Summary exposure value,Lao People's Democratic Republic,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.73853685932619,8.966736403060981,5.0075194197953605
+Summary exposure value,Myanmar,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.55414531769865,8.66190677161058,4.904942620743371
+Summary exposure value,Djibouti,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.296843822344599,14.823145011037697,8.424703047811711
+Summary exposure value,Kazakhstan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.80843836192629,3.5850266318579003,2.18185989237679
+Summary exposure value,Samoa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,4.792709735624929,6.245709823235005,3.5890313049854736
+Summary exposure value,Vanuatu,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.05879187154665,8.95419881359301,5.487872396774492
+Summary exposure value,Zambia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.93046096246834,13.1585140410137,7.3016855493399
+Summary exposure value,Colombia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.59739768367185,12.2438351318959,7.49766157097054
+Summary exposure value,Timor-Leste,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.055327895241433,11.649527136596292,7.053823548576545
+Summary exposure value,Lesotho,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.5166475612134205,8.261760612258259,5.0137621423003
+Summary exposure value,Eswatini,Both,Age-standardized,Childhood sexual abuse,Rate,2019,3.67402189056205,4.52519727407366,2.97578062896723
+Summary exposure value,Madagascar,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.9786335324354,14.347422367660501,8.264181245313711
+Summary exposure value,Liberia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.499704789199747,24.59468511157565,15.317462556921885
+Summary exposure value,Fiji,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.04737280155196,8.92783186811343,5.48396443591289
+Summary exposure value,Mozambique,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.62903793688863,11.6174910360255,6.16040754036475
+Summary exposure value,Taiwan (Province of China),Both,Age-standardized,Childhood sexual abuse,Rate,2019,3.0870918853582,3.9848240650406,2.3476289400093298
+Summary exposure value,Indonesia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.464504989290527,9.818005057278405,5.624957555031791
+Summary exposure value,Niger,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.591075578676463,24.653209241645545,15.393973009406611
+Summary exposure value,Albania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.6350996031698,9.77238213463634,5.87894029947584
+Summary exposure value,Guatemala,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.71384808138213,10.663916813337899,6.963423031039049
+Summary exposure value,Micronesia (Federated States of),Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.0487415709711305,8.91967757419064,5.4842201723681
+Summary exposure value,Azerbaijan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.79853161761879,3.5715690911305007,2.1718662156717703
+Summary exposure value,Kyrgyzstan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.81143404795266,3.5892227329903,2.18343023143875
+Summary exposure value,Somalia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.8339308860835,14.1744480789579,8.10210896760793
+Summary exposure value,Croatia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.638315190356762,9.767702783146044,5.888056670815024
+Summary exposure value,Burkina Faso,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.5674244567279,24.711516011258496,15.4275194437093
+Summary exposure value,Chad,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.570759661935103,24.68344163111124,15.423414516338555
+Summary exposure value,Turkmenistan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.8013407582594216,3.57029172252524,2.1722414195436834
+Summary exposure value,North Macedonia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.39768034245888,9.53644190236794,5.69358881017203
+Summary exposure value,Tonga,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.02666496071277,6.363003001815271,3.9091535694999497
+Summary exposure value,Ghana,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.533312555552534,24.663816028315985,15.378549906218156
+Summary exposure value,Thailand,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.703460692665418,8.605112424448649,5.247206229283325
+Summary exposure value,Namibia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.16616232472507,6.56173209967935,4.02230413869598
+Summary exposure value,Serbia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.818228795549321,8.88382690695283,5.22999190457445
+Summary exposure value,Georgia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.7927800552115403,3.5637655885962003,2.1683151828679503
+Summary exposure value,Panama,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.577306281357302,12.198714091431402,7.463661967993559
+Summary exposure value,Czechia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,12.0200545614884,15.3179242564276,9.35396017287937
+Summary exposure value,Zimbabwe,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.58447831379311,8.391160570663871,5.08786467860538
+Summary exposure value,Mali,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.541637943678843,24.68304103365736,15.406983335400698
+Summary exposure value,Latvia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.22571237665432,9.37097695031872,5.62992516022505
+Summary exposure value,Montenegro,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.627778095637559,9.76670310287252,5.88164954299355
+Summary exposure value,Nigeria,Both,Age-standardized,Childhood sexual abuse,Rate,2019,22.64760605893959,28.655634423182626,17.833085706865166
+Summary exposure value,Tajikistan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.8127975560493903,3.5822070987033396,2.18464547122693
+Summary exposure value,Nauru,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.08077440804465,8.96339368849949,5.515330182152231
+Summary exposure value,Brazil,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.379204005348969,8.45797322046501,4.848693812632972
+Summary exposure value,Solomon Islands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.55680894236235,12.3762688026145,7.4726206484399205
+Summary exposure value,Sierra Leone,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.536945950467803,24.626076893144802,15.366334710919599
+Summary exposure value,Bulgaria,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.64466680096897,9.802232910860901,5.89239895458598
+Summary exposure value,Côte d'Ivoire,Both,Age-standardized,Childhood sexual abuse,Rate,2019,18.849087592842498,23.8544861419233,14.776198431857349
+Summary exposure value,Guinea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.605328163331016,24.793440437575608,15.419325154584945
+Summary exposure value,Ukraine,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.18502417406954,10.5520053629726,6.35863164604266
+Summary exposure value,Brunei Darussalam,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.349303912041119,11.9541540523261,7.20353962745765
+Summary exposure value,Belarus,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.23287798228021,9.37769794110007,5.63216084486079
+Summary exposure value,Singapore,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.399618474553879,12.0708178949246,7.247204056762819
+Summary exposure value,Tokelau,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.0441522628183595,8.9288933790398,5.49053546148907
+Summary exposure value,Lithuania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.2325505326907,9.37637731922403,5.63506174967552
+Summary exposure value,Cook Islands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.08641689952787,9.024314059971179,5.51591422645807
+Summary exposure value,Romania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.640542996181581,9.793159699073021,5.88880086298011
+Summary exposure value,Sao Tome and Principe,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.5158820910654,24.5502306373059,15.3380914210335
+Summary exposure value,Mongolia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.81042964738447,3.58859426063327,2.18149372330728
+Summary exposure value,Uzbekistan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,2.81011825693184,3.58979149317492,2.18232369640263
+Summary exposure value,Slovenia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.674412233403779,9.84949760179041,5.92207341943072
+Summary exposure value,Togo,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.452370413702106,24.553672911471498,15.301345628519297
+Summary exposure value,Bosnia and Herzegovina,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.6323117527314395,9.762914458853771,5.88848126699551
+Summary exposure value,Belgium,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.83901896579642,11.162523101293301,6.93981678368008
+Summary exposure value,Japan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.61987219333653,13.54339145022379,8.188002548303155
+Summary exposure value,Niue,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.02152274350782,8.908016039005421,5.455779611133999
+Summary exposure value,Finland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.176250340716599,7.797243529728259,4.82502263424231
+Summary exposure value,Hungary,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.6132121808302795,9.74546761200503,5.86088970234865
+Summary exposure value,Puerto Rico,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.54389332795309,7.1639353559178,4.3081494320327005
+Summary exposure value,Russian Federation,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.185311052355573,10.547233804084561,6.366564134285108
+Summary exposure value,American Samoa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.06237442150128,8.95767923959771,5.49980164410823
+Summary exposure value,Poland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.92547157887501,9.11195094183363,5.21506705136904
+Summary exposure value,Kuwait,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.95907852428431,7.95601954698215,4.39045314613297
+Summary exposure value,Morocco,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.66343565896152,7.47449891856203,4.20733959651038
+Summary exposure value,Iceland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.436441012307875,8.246179441764685,5.1186623098078465
+Summary exposure value,Greenland,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.599576830119801,13.768053995839901,8.24747193224932
+Summary exposure value,Cyprus,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.86156228322643,11.1799064584151,6.97424888385417
+Summary exposure value,Slovakia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.63427806663288,9.784569120974401,5.88356963633517
+Summary exposure value,Italy,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.976935052565796,12.687356486225607,7.783170332538704
+Summary exposure value,Netherlands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.355120738596302,12.1110900791592,10.685429056851
+Summary exposure value,France,Both,Age-standardized,Childhood sexual abuse,Rate,2019,4.55519393740505,5.752697830671591,3.57057510152615
+Summary exposure value,Estonia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.203391466656179,9.31902243681915,5.60724977771987
+Summary exposure value,Northern Mariana Islands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.042961365310732,8.91725009769538,5.478589767475016
+Summary exposure value,Saint Kitts and Nevis,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.53489897044782,7.13298923384783,4.29148818741978
+Summary exposure value,Republic of Moldova,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.228964157172831,9.38038603607176,5.63232508127309
+Summary exposure value,Tuvalu,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.04185788654505,8.90730481030712,5.4668540446211
+Summary exposure value,Turkey,Both,Age-standardized,Childhood sexual abuse,Rate,2019,6.47567354345076,8.48063620001064,4.8873259165197
+Summary exposure value,Pakistan,Both,Age-standardized,Childhood sexual abuse,Rate,2019,9.988960807995847,12.517538847215246,7.802636120156375
+Summary exposure value,Angola,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.422706990888999,14.6392715785548,8.88506578893634
+Summary exposure value,Burundi,Both,Age-standardized,Childhood sexual abuse,Rate,2019,11.183678758969807,14.558947298343478,8.416281506010021
+Summary exposure value,Eritrea,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.831121340185653,14.152443217687683,8.104675049721898
+Summary exposure value,Rwanda,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.6856270199873,13.9183516480858,8.027638555150391
+Summary exposure value,United Republic of Tanzania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,13.155109646212498,16.5133464076088,10.4309934504758
+Summary exposure value,South Africa,Both,Age-standardized,Childhood sexual abuse,Rate,2019,10.658011400239301,13.691913165960099,8.04200442961395
+Summary exposure value,Cameroon,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.5168601131224,24.617336065218804,15.3657107088364
+Summary exposure value,Gambia,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.538021047727668,24.621029852625195,15.371490520399275
+Summary exposure value,Guinea-Bissau,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.54608003114538,24.680664157789536,15.393786319152245
+Summary exposure value,Mauritania,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.598641936800348,24.74301987657077,15.42930427753797
+Summary exposure value,Senegal,Both,Age-standardized,Childhood sexual abuse,Rate,2019,19.5007272203807,24.5834115451203,15.3615789811725
+Summary exposure value,Bermuda,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.540596202561851,7.14335007906189,4.30037125843108
+Summary exposure value,Guam,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.03740017580553,8.900485192621641,5.47602736284428
+Summary exposure value,Monaco,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.86815938193341,11.1785967733448,6.97153188704022
+Summary exposure value,Palau,Both,Age-standardized,Childhood sexual abuse,Rate,2019,7.0225917293991,8.903850474875991,5.43102528343799
+Summary exposure value,San Marino,Both,Age-standardized,Childhood sexual abuse,Rate,2019,8.9092479876172,11.257644472112199,7.026173775556289
+Summary exposure value,United States Virgin Islands,Both,Age-standardized,Childhood sexual abuse,Rate,2019,5.54980166624737,7.205142667110261,4.3139590180236
